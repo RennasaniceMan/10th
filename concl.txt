@@ -1,5 +1,0 @@
-Sorry for not doing previous homework i was ill a little bit, should i do that even after due time?
-First task is immenscely anoying, using way with temporary variable created confusion which i wasnt able to resolve in adequate amount of time, so i googled how to sort without it and used that way to solve that problem.
-here is the link: https://datagy.io/python-swap-variables/#:~:text=You%E2%80%99ll%20learn%20three%20different%20ways%20to%20swap%20variables#:~:text=You%E2%80%99ll%20learn%20three%20different%20ways%20to%20swap%20variables
-Somehow variable b from different file made its way to another file for second task, or its maybe because i used second file as testing grounds for first task. Amusing. Also true counts as 1. 
-Wasnt able to count integers with type command only overall items which is useless.
