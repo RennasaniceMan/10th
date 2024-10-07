@@ -1,5 +1,5 @@
-wow, that was difficult, first of all sometimes you need delete the file and start anew because it will screw with you somehow.
-I even used chat gpt to check for mistakes but it was for nothing and i was stuck before i created another file.
-Second task is a frankenstein moster snitched from different parts of code found in the internet and processed with ai to connect it later. 
-Sorry for such method but in my hubris i left myself too litle time to do that properly. It was a fisrt task to stupor me.
-. Although to be fair i read about everything except for staticcode as i dont have any references to understand "what de fug"
+So... whats with the null? I read that there is some kind of mistake but i wasnt able to identify it without rewriting from ground up( and i didnt have time for that because i began too late... again) Lesson learned twice i guess.
+ i also wasnt able to check properly any script but i ran it through ai and it said that most of that was fine. Modules were fine but not scripts. And for whatever reason i cant import class book from library... (although the part of the code was simply stolen for convinience.
+
+
+Also sent the link to Bulatov because wasnt able to write to you in teams but due to zero reaction repeating the process here: sending the correct link for returned assignment. RennasaniceMan/9th at master-8th (github.com)
